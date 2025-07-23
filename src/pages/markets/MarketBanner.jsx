@@ -145,37 +145,37 @@ export default function MarketBanner({ market }) {
               <div className="grid grid-cols-2">
                 <div className="pt-4 pb-4 pr-4 pl-4">
                   <p className="text-2xl font-medium tracking-tight text-orange-600">
-                    36K+
+                    15+
                   </p>
                   <h3 className="mt-3 text-base font-medium text-gray-700">
-                    Satisfied clients
+                    Total Buy Offers
                   </h3>
                 </div>
 
                 <div className=" border-l border-gray-200  p-4">
                   <p className="text-2xl font-medium tracking-tight text-orange-600">
-                    79%
+                    10+
                   </p>
                   <h3 className="mt-3 text-base font-medium text-gray-700">
-                    Download range
+                    Total Sell Offers
                   </h3>
                 </div>
 
                 <div className="p-4 border-t border-gray-200 ">
                   <p className="text-2xl font-medium tracking-tight text-orange-600">
-                    64K+
+                    1300+
                   </p>
                   <h3 className="mt-3 text-base font-medium text-gray-700">
-                    Success projects
+                    Traded Volume
                   </h3>
                 </div>
 
                 <div className="p-4 border-t border-l border-gray-200 ">
                   <p className="text-2xl font-medium tracking-tight text-orange-600">
-                    25+
+                    7+
                   </p>
                   <h3 className="mt-3 text-base font-medium text-gray-700">
-                    Awards winning
+                    Active Traders
                   </h3>
                 </div>
               </div>
